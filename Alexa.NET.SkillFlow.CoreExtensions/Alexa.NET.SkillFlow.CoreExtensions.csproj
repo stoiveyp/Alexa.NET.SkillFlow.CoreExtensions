@@ -9,7 +9,7 @@
     <PackageProjectUrl>https://github.com/stoiveyp/Alexa.NET.SkillFlow.CoreExtensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/stoiveyp/Alexa.NET.SkillFlow.CoreExtensions</RepositoryUrl>
     <PackageTags>alexa, skillflow</PackageTags>
-    <PackageReleaseNotes>initial release</PackageReleaseNotes>
+    <PackageReleaseNotes>Update roll to represent optional properties</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>1.0.1</Version>
   </PropertyGroup>
