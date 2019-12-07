@@ -10,6 +10,7 @@
     <RepositoryUrl>https://github.com/stoiveyp/Alexa.NET.SkillFlow.CoreExtensions</RepositoryUrl>
     <PackageTags>alexa, skillflow</PackageTags>
     <PackageReleaseNotes>initial release</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
