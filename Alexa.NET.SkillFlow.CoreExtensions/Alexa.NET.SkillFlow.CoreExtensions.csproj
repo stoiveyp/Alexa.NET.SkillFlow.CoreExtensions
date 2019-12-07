@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Steven Pears</Authors>
+    <Company>Steven Pears</Company>
+    <Description>Small library that adds the core extensions to the object model</Description>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/stoiveyp/Alexa.NET.SkillFlow.CoreExtensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/stoiveyp/Alexa.NET.SkillFlow.CoreExtensions</RepositoryUrl>
+    <PackageTags>alexa, skillflow</PackageTags>
+    <PackageReleaseNotes>initial release</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Alexa.NET.SkillFlow" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
