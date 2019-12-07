@@ -9,7 +9,9 @@ namespace Alexa.NET.SkillFlow.CoreExtensions
         public override string Type => nameof(Roll);
         public int Dice { get; set; }
         public int Sides { get; set; }
-        public int Modifier { get; set; }
-        public int Top { get; set; }
+
+        public char? Modifier { get; set; }
+        public int? ModifyAmount { get; set; }
+        public int? Top { get; set; }
     }
 }
