@@ -9,9 +9,9 @@
     <PackageProjectUrl>https://github.com/stoiveyp/Alexa.NET.SkillFlow.CoreExtensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/stoiveyp/Alexa.NET.SkillFlow.CoreExtensions</RepositoryUrl>
     <PackageTags>alexa, skillflow</PackageTags>
-    <PackageReleaseNotes>Update roll to represent optional properties</PackageReleaseNotes>
+    <PackageReleaseNotes>Add URI to BGM</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>

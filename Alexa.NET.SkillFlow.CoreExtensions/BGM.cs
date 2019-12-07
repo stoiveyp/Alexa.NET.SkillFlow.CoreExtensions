@@ -7,5 +7,7 @@ namespace Alexa.NET.SkillFlow.CoreExtensions
     public class BGM:SceneInstruction
     {
         public override string Type => nameof(BGM);
+
+        public Uri Uri { get; set; }
     }
 }
